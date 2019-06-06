@@ -1,0 +1,23 @@
+export default () => ({
+  hungriness: 108,
+  auth: {user: null},
+  username: 'hey',
+  authuser_plans: [],
+  authuser_products: [],
+  media:[],
+  videos:[],
+  relatedcontent:[],
+  lessonsets:[],
+  lessonsetslimited:{},
+  lessons: {},
+  transcripts: [],
+  lessonwords: {},
+  translation: null,
+  //languages: LANGUAGES,
+  currentPage: null,
+  productWelcome: true,
+  lessonsetsTracking: [],
+  quizzes:[],
+  userQuizzes:[],
+  bookmarks:[]
+})

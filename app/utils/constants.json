@@ -1,0 +1,383 @@
+
+[
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "Ron and Diana Watson are&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "creatures of habit"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": ". For six days a week, they take their seats in the same&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "Texas Roadhouse&nbsp;"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "at the same time of day and order the same&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "a",
+        "attributes": [
+          {
+            "key": "href",
+            "value": "\\\"https://www.washingtonpost.com/lifestyle/2019/03/20/precision-dining-why-this-couple-has-been-eating-same-meal-texas-roadhouse-six-days-week-years/\\\""
+          },
+          {
+            "key": "target",
+            "value": "\\\"_blank\\\""
+          },
+          {
+            "key": "rel",
+            "value": "\\\"noopener noreferrer\\\""
+          }
+        ],
+        "children": [
+          {
+            "type": "text",
+            "content": "meal"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": ". Over the last 15 years, the Watsons have been&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "chowing down&nbsp;"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "on barbecue chicken and &ldquo;Road Kill&rdquo; steak. It may sound dull, but the Watsons believe in the comfort of sameness."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "The Watsons&rsquo; need for routine is not surprising. In life, the unexpected and unfamiliar lurks&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "around every corner"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": ". Is it any wonder we crave the security of the everyday and mundane?"
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "Members of the&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "a",
+        "attributes": [
+          {
+            "key": "href",
+            "value": "\\\"https://narratively.com/the-international-society-for-men-who-love-being-boring/\\\""
+          },
+          {
+            "key": "target",
+            "value": "\\\"_blank\\\""
+          },
+          {
+            "key": "rel",
+            "value": "\\\"noopener noreferrer\\\""
+          }
+        ],
+        "children": [
+          {
+            "type": "text",
+            "content": "Dull Men&rsquo;s Club"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": " would certainly agree. Leland Carson is a 77-year-old retired tax attorney who founded the club for men who like ordinary things."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "The idea came to him in a New York Athletic Club bar. He and a group of men were looking at the club&rsquo;s monthly magazine. The pages were filled with boxing, judo, skiing, sailing, and other high-adrenaline pursuits."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "Carson and his friends didn&rsquo;t do any of those things. They confessed to being rather dull. So, they decided to start a club-within-a-club, and a new movement was born."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "The Dull Men&rsquo;s Club now has hundreds of members worldwide. Some collect airsickness bags. Others collect bricks. Some spend their days photographing mailboxes. And others just roam around sitting on benches."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "You won&rsquo;t find any&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "adrenaline junkies&nbsp;"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "in the Dull Men&rsquo;s Club. Those thrill-seekers are&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "cut from a different cloth"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": ". They spend their time searching for new challenges and exciting experiences."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "Christopher Bergland is one of those thrill-seekers. He became an ultra-endurance&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "a",
+        "attributes": [
+          {
+            "key": "href",
+            "value": "\\\"https://www.psychologytoday.com/us/blog/the-athletes-way/201311/the-perils-novelty-seeking\\\""
+          },
+          {
+            "key": "target",
+            "value": "\\\"_blank\\\""
+          },
+          {
+            "key": "rel",
+            "value": "\\\"noopener noreferrer\\\""
+          }
+        ],
+        "children": [
+          {
+            "type": "text",
+            "content": "athlete"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": " because he got bored so easily. He believes people have a biological need to struggle for survival. In other phrases, we&rsquo;re&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "hard-wired&nbsp;"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "to enjoy taking risks and pushing boundaries. He says life in the digital age is causing our bodies and minds to become&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "short-circuited"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": ". So we all need some element of danger in our lives to stay healthy."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "text",
+        "content": "Kurt Vonnegut once wrote, &ldquo;I want to stand as close to the edge as I can without going over. Out on the edge, you see all kinds of things you can&#8217;t see from the center.&#8221;"
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  },
+  {
+    "type": "element",
+    "tagName": "p",
+    "attributes": [],
+    "children": [
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "Walking a tightrope&nbsp;"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "between personal safety and risk is something we all have to do when making choices. So perhaps finding our own&nbsp;"
+      },
+      {
+        "type": "element",
+        "tagName": "strong",
+        "attributes": [],
+        "children": [
+          {
+            "type": "text",
+            "content": "sweet spot&nbsp;"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "content": "between the dull and the dangerous is the key to living a life of contentment."
+      }
+    ]
+  },
+  {
+    "type": "text",
+    "content": "\\n"
+  }
+]
