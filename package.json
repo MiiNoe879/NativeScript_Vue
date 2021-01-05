@@ -13,7 +13,7 @@
   "repository": "<fill-your-repository-here>",
   "dependencies": {
     "amazon-s3-url-signer": "^0.1.0",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "himalaya": "1.1.0",
     "imgix-core-js": "^1.2.1",
     "nativescript-floatingactionbutton": "5.0.3",
